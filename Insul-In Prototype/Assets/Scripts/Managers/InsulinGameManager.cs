@@ -108,5 +108,7 @@ public class InsulinGameManager : MonoBehaviour
     {
         // Shut down game:
         GameSceneManager.Instance.Quit();
+        Application.Unload();
+
     }
 }

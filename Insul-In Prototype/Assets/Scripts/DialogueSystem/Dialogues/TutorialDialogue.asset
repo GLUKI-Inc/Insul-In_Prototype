@@ -14,20 +14,22 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   sentences:
   - Hello! I am GLUKI! A glucose molecule in your body.
-  - You just ate yummy food cooked by your parent.
-  - But now you have floating GLUKIs.
-  - 'We need your help to shoot insulin so we can go home: your cell!'
-  - This is your Blood Sugar Level. As the game progresses, this will go up.
-  - Your goal is to get the GLUKI's inside of the cell and have the Blood Sugar Level
-    decrease to the desired amount.
-  - The desired amount is shown by the slider here. Try to get between 80 and 140!
-  - The timer shows you how long you have to get your Blood Sugar Level to the desired
-    amount.
-  - You are telling the cell you are opening up by giving it insulin.
-  - "The cell wall will open up to allow all of the happy GLUKI\u2019s in."
-  - "The blood sugar level will go down once the GLUKI\u2019s go in."
-  - ammo info
-  - paddle info
-  - left right info
+  - You just ate a yummy snack that contains lots of GLUKI's!
+  - But now, all your GLUKI's are floating in your bloodstream!
+  - We need your help to get the GLUKI's from the bloodstream into your cells!
+  - Insulin is like a key that allows the GLUKI's to enter. You will aim the Insulin
+    to open up the cells!
+  - The more GLUKI's that enter the cell, the lower your blood sugar level will go,
+    since the GLUKI's convert to energy.
+  - These yellow balls are your Insulin injections. To inject, tap on the yellow
+    insulin ball to launch it into the cell!
+  - The white rectangle is a paddle! Insulin launches from and bounces off of this.
+  - The left and right squares on the side are for moving the cell. When you tap
+    on one of them, the entire cell and everything inside of it will move in that
+    direction!
+  - Your goal is to get as many GLUKI's into the cell to have a happy blood sugar
+    level!
+  - You have one minute to complete this game challenge to meet your happy goal!
+  - The happy level of between 80 to 140 is shown on the slider here.
   - Now, let's try it out. Good luck!
   - 
